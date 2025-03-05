@@ -3,7 +3,7 @@ Here are the Supplementary Data for the Manuscript "Identifying patterns of sele
 Authors: Luz Angela Alonso-Morales, Nicolas Rodrigue, Susan Bailey, Rees Kassen.
 
 # Table of contents
-## Alignments of gtsB and gtsD used for the Bayesian mapping
-## Phylogenetic consensus tree used as fixed topology
-## Supplementary tables
-## Supplementary figures document
+### Alignments of gtsB and gtsD used for the Bayesian mapping
+### Phylogenetic consensus tree used as fixed topology
+### Supplementary tables
+### Supplementary figures document
