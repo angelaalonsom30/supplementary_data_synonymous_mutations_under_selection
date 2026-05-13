@@ -5,5 +5,3 @@ Authors: Luz Angela Alonso-Morales, Nicolas Rodrigue, Susan Bailey, Rees Kassen.
 # Table of contents
 ### Alignments of gtsB and gtsD used for the Bayesian mapping [Aligments Folder](Alignments/)
 ### Phylogenetic consensus tree used as fixed topology [Consensus tree Folder](phylogenetic_consensus_tree/)
-### Supplementary tables [Supplementary Tables Folder](tables/)
-### Supplementary figures document [Supplementary figures](figures/)
